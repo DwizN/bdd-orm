@@ -1,0 +1,14 @@
+{
+	"fields": {
+		"id": {
+			"type": "int",
+			"property": "AUTO_INCREMENT NOT NULL PRIMARY KEY"
+		},
+		"content": {
+			"type": "varchar(100)",
+			"property": "NOT NULL"
+		}
+	},
+	"version": "0.27",
+	"tableName": "post"
+}
