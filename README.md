@@ -1,4 +1,4 @@
-# bdd-orm
+# bdd-orm Antoine OFFROY
 Création ORM M1 I2L
 
 Le fichier de configuration est Mysql.php
